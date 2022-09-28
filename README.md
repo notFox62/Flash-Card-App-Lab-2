@@ -1,7 +1,7 @@
 ## Lab 2
 
 ### App Description
-`TODO://` App askes a question, currently "Who is the 44th President of the United States?". User can change question and anwser of text or cancel changes with UI buttons in the bottom corners.
+App askes a question, currently "Who is the 44th President of the United States?". User can change question and anwser of text or cancel changes with UI buttons in the bottom corners.
 
 ### App Walk-though
 <img src="https://i.imgur.com/4nAyjBC.gif" width=200><br>
